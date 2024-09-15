@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bothcone.github.io/sitemap.html.gz
+Sitemap: https://bothcone.github.io/app/sitemap.html.gz
+Sitemap: https://bothcone.github.io/assets/sitemap.html.gz
+Sitemap: https://bothcone.github.io/css/sitemap.html.gz
+Sitemap: https://bothcone.github.io/includes/sitemap.html.gz
+Sitemap: https://bothcone.github.io/item/sitemap.html.gz
+Sitemap: https://bothcone.github.io/src/sitemap.html.gz
